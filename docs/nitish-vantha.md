@@ -1,1 +1,1 @@
-My name is **Nitish Vantha**
+Name is **Nitish Vantha**
